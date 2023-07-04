@@ -5,5 +5,5 @@ Designed a Power BI dashboard to track employee data for the HR team,including w
 the dashboard streamlined HR processes and increased 95% efficiency.
 Managed a dashboard can save 3-4hrs of work for the HR daily.
 
-Screenshot 2023-06-01 210959.png
-[HR_analytics_pr1-main.zip](https://github.com/gitap023/HR_analytics_pr1/files/11947538/HR_analytics_pr1-main.zip)
+Image-Screenshot 2023-06-01 210959.png 
+ [HR_analytics_pr1-main.zip](https://github.com/gitap023/HR_analytics_pr1/files/11947538/HR_analytics_pr1-main.zip)
